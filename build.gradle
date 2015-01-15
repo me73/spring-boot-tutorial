@@ -9,6 +9,7 @@ buildscript {
 }
 apply plugin: 'java'
 apply plugin: 'spring-boot'
+apply plugin: 'sonar'
 
 sourceCompatibility = 1.8
 version = '1.0'
